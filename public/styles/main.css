@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    background-color: #212529;
+}
+
+.weather {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 275px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 75px;
+}
+.city {
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.cloud {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    padding: 0px;
+    margin: 0px;
+}
+#cel {
+    padding: 0px;
+    margin: 0px;
+}
